@@ -1,0 +1,94 @@
+{
+  "435800525389430804": [
+    {
+      "id": "legendary_sword",
+      "title": "시로챤",
+      "description": "섹시하고 귀엽고 엣치치한 고양이",
+      "count": 3
+    }
+  ],
+  "546242989991919617": [
+    {
+      "id": "legendary_sword",
+      "title": "히트눈나의 음란점",
+      "description": "어흐",
+      "count": 1
+    },
+    {
+      "id": "item_10",
+      "title": "주작눈나의 깃털",
+      "description": "주작눈나가 흘린 깃털",
+      "count": 1
+    }
+  ],
+  "362113091628171264": [
+    {
+      "id": "legendary_sword",
+      "title": "루팡눈나의 월급",
+      "description": "루팡눈나가 떨어뜨린 월급",
+      "count": 15
+    },
+    {
+      "id": "item_17",
+      "title": "골댕눈나의 옷",
+      "description": "골댕눈나가 입던 옷",
+      "count": 1
+    },
+    {
+      "id": "item_11",
+      "title": "단팥눈나의 단팥빵",
+      "description": "단팥눈나가 가지고 있던 단팥빵",
+      "count": 1
+    },
+    {
+      "id": "item_16",
+      "title": "골댕눈나의 직박구리",
+      "description": "골댕눈나의 직박구리 폴더",
+      "count": 1
+    }
+  ],
+  "308166107167195148": [
+    {
+      "id": "legendary_sword",
+      "title": "히트눈나의 음란점",
+      "description": "어흐",
+      "count": 1
+    }
+  ],
+  "1170322309630935081": [
+    {
+      "id": "legendary_sword",
+      "title": "히트눈나의 음란점",
+      "description": "어흐",
+      "count": 3
+    },
+    {
+      "id": "item_18",
+      "title": "주작눈나의 빨간잡지",
+      "description": "주작눈나가 읽던 빨간잡지",
+      "count": 1
+    },
+    {
+      "id": "item_15",
+      "title": "히트눈나가 지금 입은 옷",
+      "description": "지금 히트눈나가 입고 있는 옷",
+      "count": 1
+    }
+  ],
+  "434732349909893121": [
+    {
+      "id": "legendary_sword",
+      "title": "공기님의 가위",
+      "description": "공기님이 무언가를 자를 때 쓰는 가위",
+      "count": 1
+    }
+  ],
+  "337202461490020353": [
+    {
+      "id": "legendary_sword",
+      "title": "흑룡의 날개와 꼬리",
+      "description": "시로봇 개발자 흑룡의 날개와 꼬리",
+      "count": 1
+    }
+  ]
+}
